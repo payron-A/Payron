@@ -51,7 +51,7 @@ const payron = {
   <a href="https://.com/in/payron">
     <img src="https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=FF0000" />
   </a>
-  <a href="https://payron.dev">
+  <a href="https://www.instagram.com/payron.a?igsh=MTJ2b3V2OWdkeHIwYg==">
     <img src="https://img.shields.io/badge/insagram-000000?style=for-the-badge&logo=Instagram&logoColor=FF0000" />
   </a>
 </p>
