@@ -1,11 +1,6 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0000,100:000000&height=200&section=header&text=PAYRON&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&width=600&height=100&lines=Frontend+Developer;HTML5+•+CSS3+•+JavaScript;Building+Modern+Web+Apps" alt="Typing SVG" />
-</div>
-
 <br/>
 
 <div align="center">
@@ -54,10 +49,6 @@ const payron = {
 </p>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Payron&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true&area_color=FF0000" />
-</div>
 
 <br/>
 
