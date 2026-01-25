@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0000,100:000000&height=200&section=header&text=PAYRON&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0000,100:000000&height=200&section=header&text=PAYRON&fontSize=90&fontColor=000000&animation=twinkling&fontAlignY=35" />
 </div>
 <br/>
 
@@ -22,29 +22,37 @@ const payron = {
 </p>
 
 <br/>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Payron&show_icons=true&theme=radical&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Payron&theme=radical&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&border=FF0000&hide_border=true" />
-</p>
-
 <br/>
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/api/?username=Payron&theme=radical&no-frame=true&no-bg=true&row=1&column=6&title=Commits,Followers,Stars,Repositories" />
+
+## Learning Roadmap
+
+### Frontend Development
+- [x] ~~Learn HTML~~
+- [x] ~~Semantic HTML~~
+- [x] ~~Learn CSS~~
+- [x] ~~CSS Animations~~
+- [x] ~~Learn JavaScript~~
+- [x] ~~JavaScript Animations~~
+- [x] ~~Improve The Basics~~
+- [ ] Learn Framework
+
+### Backend Development
+- [ ] Coming Soon
+
 </div>
 
 <br/>
-
+<h3 align="center">Contact<h3/>
 <p align="center">
-  <a href="https://github.com/Payron">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF0000" />
+  <a href="https://www.facebook.com/profile.php?id=61586814884483">
+    <img src="https://img.shields.io/badge/facebook-000000?style=for-the-badge&logo=facebook&logoColor=FF0000" />
   </a>
-  <a href="https://linkedin.com/in/payron">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000" />
+  <a href="https://.com/in/payron">
+    <img src="https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=FF0000" />
   </a>
   <a href="https://payron.dev">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF0000" />
+    <img src="https://img.shields.io/badge/insagram-000000?style=for-the-badge&logo=Instagram&logoColor=FF0000" />
   </a>
 </p>
 
@@ -53,5 +61,5 @@ const payron = {
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0000,100:000000&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0000,100:000000&height=220&section=footer&text=Tanks&fontSize=90&fontColor=000000&animation=twinkling&fontAlignY=65" />
 </div>
