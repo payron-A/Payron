@@ -43,7 +43,7 @@ const payron = {
 </div>
 
 <br/>
-<h3 align="center">Contact<h3/>
+<h3 align="center">Contact</h3>
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=61586814884483">
     <img src="https://img.shields.io/badge/facebook-000000?style=for-the-badge&logo=facebook&logoColor=FF0000" />
@@ -52,7 +52,7 @@ const payron = {
     <img src="https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=FF0000" />
   </a>
   <a href="https://www.instagram.com/payron.a?igsh=MTJ2b3V2OWdkeHIwYg==">
-    <img src="https://img.shields.io/badge/insagram-000000?style=for-the-badge&logo=Instagram&logoColor=FF0000" />
+    <img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=Instagram&logoColor=FF0000" />
   </a>
 </p>
 
